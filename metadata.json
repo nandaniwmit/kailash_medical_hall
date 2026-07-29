@@ -1,0 +1,6 @@
+{
+  "name": "Kailash Medical Hall",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in Chand Chaura, Gaya, Bihar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
