@@ -193,16 +193,8 @@ export const Footer: React.FC = () => {
           <p>© {currentYear} {BUSINESS_NAME}. All rights reserved.</p>
 
           <p className="flex items-center gap-1.5 font-medium text-slate-300">
-            <span>Developed by</span>
-            <a
-              href="https://main.webmakerit.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-emerald-400 hover:text-emerald-300 underline underline-offset-4 font-bold flex items-center gap-1 transition-colors"
-            >
-              <span>WMIT</span>
-              <ExternalLink className="w-3 h-3" />
-            </a>
+            <span></span>
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </p>
         </div>
 
